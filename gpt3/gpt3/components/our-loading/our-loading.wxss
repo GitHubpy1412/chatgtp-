@@ -1,0 +1,35 @@
+
+.mask.data-v-bbe81308 {
+		position: absolute;
+		left: 0;
+		right: 0;
+		top: 0;
+		bottom: 0;
+		z-index: 3000;
+		transition: opacity .3s linear;
+}
+.full-screen.data-v-bbe81308 {
+		position: fixed;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+}
+.spinner.data-v-bbe81308 {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+

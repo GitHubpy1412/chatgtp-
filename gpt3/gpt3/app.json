@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/ctrl"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "AI",
+    "navigationBarBackgroundColor": "#383838",
+    "backgroundColor": "#ffffff"
+  },
+  "usingComponents": {}
+}
