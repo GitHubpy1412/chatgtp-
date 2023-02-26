@@ -1,4 +1,4 @@
-# 某AI小程序部署教程
+# chatgpt小程序部署教程
 ## 可以看一下我已经搭建好的
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/80f2cdca19714560b357e8c7465b3163.jpeg#pic_center)
 
@@ -14,7 +14,7 @@ ChatGPT小程序使用OpenAI官方 GPT-3 text-davinci-003模型接口进行问�
 
 ### 注意事项
 
-自己注册个小程序，按着教程来设置就行。有问题在群里问。
+自己注册个小程序，按着教程来设置就行。
 
 **小程序名字不要带【OpenAI】【ChatGPT】等字眼**
 
