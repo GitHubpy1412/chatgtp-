@@ -1,4 +1,5 @@
 # chatgpt小程序部署教程
+## [chatgpt账号和api购买地址](http://200.aifk.pw/ds/)
 ## 可以看一下我已经搭建好的
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/80f2cdca19714560b357e8c7465b3163.jpeg#pic_center)
 
